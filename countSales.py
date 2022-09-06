@@ -1,5 +1,5 @@
 file = open('inf_22_10_20_26.txt')
-a = [] 
+a = [] #Todo: https://github.com/laukeery/countSales/issues/1
 m = int(file.readline())  # Удаляем первую строку(общее количество купленных товаров)
 summa = 0
 maxi = 0
